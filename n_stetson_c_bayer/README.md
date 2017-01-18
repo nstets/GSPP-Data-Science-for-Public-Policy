@@ -88,7 +88,7 @@ Presentation of results.
 
 ### Datasets
 
-* **sfbay.csv **
+* **sfbay.csv**
 
     * Original data from Urban Analytics Lab/Geoff Beoing
 
